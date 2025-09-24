@@ -8,8 +8,7 @@
 
 <p>
  Meu nome é Bruno Loesch da Cunha, tenho 17 anos e sou natural de Blumenau, Santa Catarina. Atualmente, estou cursando Desenvolvimento de Sistemas na Escola Sesi e participando do curso de Flutter oferecido pela Blusoft. 
-  <br>
-Ainda não estou no mercado de trabalho, mas estou constantemente em busca de aprimorar minhas habilidades como programador.
+Ainda não estou no mercado de trabalho, mas estou constantemente em busca de aprimorar minhas habilidades como <b>programador</b>.
 Tenho um forte interesse pela área de <b>Back-end</b> , que é onde me destaco atualmente, mas estou me dedicando para evoluir e me tornar um desenvolvedor <b>Full-Stack</b>.<br>
 </p>
 
